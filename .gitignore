@@ -1,0 +1,11 @@
+# Local user data and exports
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.csv
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
